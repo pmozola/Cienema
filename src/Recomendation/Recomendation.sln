@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Recomendation.API", "Cinema.Recomendation.API\Cinema.Recomendation.API.csproj", "{BBFF3B99-8669-4E16-A6ED-268E37696A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFF3B99-8669-4E16-A6ED-268E37696A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFF3B99-8669-4E16-A6ED-268E37696A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFF3B99-8669-4E16-A6ED-268E37696A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFF3B99-8669-4E16-A6ED-268E37696A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {144241E4-A8B3-4949-B750-CCDE9F3C8FB5}
+	EndGlobalSection
+EndGlobal
